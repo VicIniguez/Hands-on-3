@@ -16,6 +16,7 @@ public class Main {
         SimpleLinearRegression prueba = new SimpleLinearRegression(num);
         prueba.Ingreso();
         prueba.SLR();
+        prueba.Sustitucion();
 
         sc.close();
     }
